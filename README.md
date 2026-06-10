@@ -1,98 +1,146 @@
 <!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  GitHub Profile README — Dark / Hacker theme                  ║
-  ║  kabeloblack · 3D · XR · AI Creative                          ║
-  ╚══════════════════════════════════════════════════════════════╝
+  GitHub PROFILE README for kabeloblack — portfolio-style layout, real info.
+  Section flow mirrors the 3D portfolio site: Nav → Hero → About → What I Do → Career → Work → Techstack → Contact.
+  Lives in repo kabeloblack/kabeloblack as README.md → renders at github.com/kabeloblack
+  Fill in the Work projects marked <!-- edit --> with your real titles/links.
 -->
 
-<!-- ============ ANIMATED HEADER ============ -->
-<div align="center">
+<!-- ===================== NAV ===================== -->
+<p align="center">
+  <a href="#about">ABOUT</a> &nbsp;•&nbsp;
+  <a href="#work">WORK</a> &nbsp;•&nbsp;
+  <a href="#contact">CONTACT</a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=200&section=header&text=&fontColor=00ff9f" width="100%" />
+<!-- ===================== HERO / LANDING ===================== -->
+<h3 align="center">Hello! I'm</h3>
+<h1 align="center">KABELO MONTSHO</h1>
 
-<a href="https://github.com/kabeloblack">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=900&color=00FF9F&center=true&vCenter=true&width=760&height=70&lines=Kabelo+Montsho+%E2%80%94+3D+%C2%B7+XR+%C2%B7+AI+Creative;Founder+%26+Director+of+Design+Matrix;Unreal+Engine+%E2%80%A2+Unity+VR%2FAR+%E2%80%A2+Maya;Where+art+meets+code+meets+AI" alt="Typing SVG" />
-</a>
+<p align="center"><b>A Creative</b></p>
+<h2 align="center">3D / XR Developer &nbsp;•&nbsp; AI Engineer</h2>
 
-<br/>
+<p align="center"><i>I live where art meets code.</i></p>
 
-<!-- profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=kabeloblack&label=PROFILE+VIEWS&color=00ff9f&style=for-the-badge" alt="profile views" />
+<p align="center">
+  <a href="https://github.com/kabeloblack"><img src="https://img.shields.io/badge/GitHub-kabeloblack-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:kaykabelo8@gmail.com@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Pretoria-South%20Africa-007A4D?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://komarev.com/ghpvc/?username=kabeloblack&label=Profile%20views&color=00ff99&style=flat" alt="views"/>
+</p>
 
-</div>
+---
 
-<!-- ============ ABOUT ============ -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> `whoami`
+<!-- ===================== ABOUT ===================== -->
+<h2 id="about">🧑‍🚀 About Me</h2>
 
-```bash
-> Kabelo Montsho — Founder & Director, Design Matrix
-> 3D / XR Creative & AI Engineer based in Pretoria, South Africa 🇿🇦
-> Multidisciplinary: 3D animation, graphic design, real-time & immersive tech.
-> I live where art meets code.
-```
+I'm a **3D / XR Creative & AI Engineer** and the **Founder & Director of Design Matrix**,
+a multidisciplinary creative studio based in **Lynnwood, Pretoria — building for a global audience.**
 
-- 🏢 **Founder & Director** of **Design Matrix** — a multidisciplinary creative studio
-- 🎮 **Real-time 3D** in **Unreal Engine** — gameplay & systems via **Blueprints**
-- 🥽 **VR / AR** experiences built in **Unity**
-- 🎬 **3D animation & modeling** in **Autodesk Maya**
-- 🎨 **Graphic design** & visual identity work
-- 🤖 **AI-driven development** — power-user of **Claude** & **GitHub Copilot**
-- 📍 Based in **Lynnwood, Pretoria** — building for a global audience
+My work spans **real-time 3D, immersive VR/AR, 3D animation, and graphic design** — and I
+build it with an **AI-driven workflow** as a power-user of Claude & GitHub Copilot.
 
-<br/>
+---
 
-<!-- ============ TECH STACK ============ -->
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sa7K9vG/giphy.gif" width="28"> Tech Stack
+<!-- ===================== WHAT I DO ===================== -->
+<h2>🛠️ What I Do</h2>
 
-#### 🎮 Engines & Real-Time
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=00FF9F)
-![Blueprints](https://img.shields.io/badge/Blueprints_Visual_Scripting-0E1128?style=for-the-badge&logo=unrealengine&logoColor=00FF9F)
-![Unity](https://img.shields.io/badge/Unity-0E1128?style=for-the-badge&logo=unity&logoColor=00FF9F)
+<table>
+<tr>
+<td valign="top" width="50%">
 
-#### 🥽 XR — VR / AR
-![VR](https://img.shields.io/badge/Virtual_Reality-0E1128?style=for-the-badge&logo=oculus&logoColor=00FF9F)
-![AR](https://img.shields.io/badge/Augmented_Reality-0E1128?style=for-the-badge&logo=meta&logoColor=00FF9F)
+### 🎮 Real-time & Immersive
+Interactive worlds, gameplay & XR experiences.
 
-#### 🎬 3D Art & Animation
-![Maya](https://img.shields.io/badge/Autodesk_Maya-0E1128?style=for-the-badge&logo=autodesk&logoColor=00FF9F)
+`Unreal Engine` `Blueprints` `C++`
+`Unity` `C#` `VR / AR`
+`Real-time 3D`
 
-#### 💻 Languages
-![C++](https://img.shields.io/badge/C++-0E1128?style=for-the-badge&logo=cplusplus&logoColor=00FF9F)
-![C#](https://img.shields.io/badge/C%23-0E1128?style=for-the-badge&logo=csharp&logoColor=00FF9F)
-![Python](https://img.shields.io/badge/Python-0E1128?style=for-the-badge&logo=python&logoColor=00FF9F)
+</td>
+<td valign="top" width="50%">
 
-#### 🤖 AI Tooling
-![Claude](https://img.shields.io/badge/Claude_AI-0E1128?style=for-the-badge&logo=anthropic&logoColor=00FF9F)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-0E1128?style=for-the-badge&logo=githubcopilot&logoColor=00FF9F)
+### 🎨 Art & Design
+3D content, animation & visual identity.
 
-<br/>
+`Autodesk Maya` `3D Animation` `Modeling`
+`Graphic Design` `Visual Identity`
+`AI-driven Dev (Claude · Copilot)`
 
-<!-- ============ GITHUB STATS ============ -->
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> GitHub Stats
+</td>
+</tr>
+</table>
 
-<div align="center">
+---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kabeloblack&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff9f&icon_color=00ff9f&text_color=ffffff&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabeloblack&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff9f&text_color=ffffff&langs_count=8" />
+<!-- ===================== CAREER ===================== -->
+<h2>📈 My Career &amp; Experience</h2>
 
-<br/><br/>
+| Year | Role | Company |
+|------|------|---------|
+| **NOW** | Founder & Director | **Design Matrix** — multidisciplinary creative studio |
+| **20XX** | 3D / XR Creative & AI Engineer | <!-- edit: previous role/company --> |
 
-<img src="https://streak-stats.demolab.com?user=kabeloblack&theme=highcontrast&hide_border=true&background=0a0a0a&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f" />
+> Founder & Director of Design Matrix, leading real-time 3D, XR and AI-driven creative production.
 
-<br/><br/>
+---
 
-<!-- contribution snake — see setup note in the message -->
-<img src="https://raw.githubusercontent.com/kabeloblack/kabeloblack/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<!-- ===================== WORK ===================== -->
+<h2 id="work">💼 My Work</h2>
 
-</div>
+<!-- edit: swap in your real projects, links and thumbnails -->
+| # | Project | Category | Tools & Features |
+|---|---------|----------|------------------|
+| 01 | **Project Name** | Real-time 3D | Unreal Engine, Blueprints, C++ |
+| 02 | **Project Name** | VR / AR | Unity, C# |
+| 03 | **Project Name** | 3D Animation | Autodesk Maya |
+| 04 | **Project Name** | Graphic Design | Visual identity, branding |
+| 05 | **Project Name** | XR Experience | Unreal / Unity |
+| 06 | **Project Name** | AI-driven Tool | Claude, GitHub Copilot |
 
-<br/>
+---
 
-<!-- ============ FOOTER ============ -->
-<div align="center">
+<!-- ===================== TECHSTACK ===================== -->
+<h2>🧊 My Techstack</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer" width="100%" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/Autodesk%20Maya-0696D7?style=for-the-badge&logo=autodeskmaya&logoColor=white" alt="Maya"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+  <br/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Blueprints-313131?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Blueprints"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot"/>
+</p>
 
-<sub>⚡ Art + Code + AI — building the immersive web, one frame at a time.</sub>
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kabeloblack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabeloblack&layout=compact&theme=tokyonight" alt="Top languages"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabeloblack&theme=tokyonight" alt="Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kabeloblack&theme=tokyo-night&hide_border=true" alt="Activity graph"/>
+</p>
+
+---
+
+<!-- ===================== CONTACT ===================== -->
+<h2 id="contact">📬 Contact</h2>
+
+- **Email** — [shuduconnection@gmail.com](mailto:shuduconnection@gmail.com)
+- **GitHub** — [github.com/kabeloblack](https://github.com/kabeloblack)
+- **Studio** — Design Matrix · Lynnwood, Pretoria, South Africa 🇿🇦
+
+<p align="center">
+  <br/>
+  <i>Designed &amp; Developed by <b>Kabelo Montsho</b></i><br/>
+  © 2026 · Design Matrix
+</p>
