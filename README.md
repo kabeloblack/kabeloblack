@@ -135,7 +135,6 @@ Interactive worlds, gameplay & XR experiences.
 <!-- ===================== CONTACT ===================== -->
 <h2 id="contact">📬 Contact</h2>
 
-- **Email** — [shuduconnection@gmail.com](mailto:shuduconnection@gmail.com)
 - **GitHub** — [github.com/kabeloblack](https://github.com/kabeloblack)
 - **Studio** — Design Matrix · Lynnwood, Pretoria, South Africa 🇿🇦
 
